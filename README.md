@@ -55,3 +55,43 @@
 ~~其实我也不知道这个文件有什么用~~
 
 ~~其实这个文件确实暂时未被使用~~
+
+## 干员信息
+
+干员的相关信息被存放于 `operator.json` 内，由程序自动生成并由人工校对完善 ~~，不应被手动改动~~ 。
+
+其中干员按照 `职业 - 稀有度 - 实装顺序` 排序
+
+每个干员的信息遵守以下格式
+
+```json
+"予愿安洁莉娜": {
+    "id": "char_1015_aglna2",
+    "code_name": "予愿安洁莉娜",
+    "code_name_en": "Angelina the Mellow Wish",
+    "code_name_jp": "予愿安洁莉娜",
+    "job": "特种",
+    "sub_job": "巡空者",
+    "position": "近",
+    "rarity": 6,
+    "tag": [
+        "高空",
+        "输出",
+        "控场"
+    ],
+    "is_recruit": false,
+    "birthday": {
+        "is_undefined": "",
+        "month": 5,
+        "day": 14
+    },
+    "pinyin": [
+        "yu3",
+        "yuan4",
+        "an1",
+        "jie2",
+        "li4",
+        "na4"
+    ]
+}
+```
