@@ -3094,6 +3094,31 @@
             "Castle-3"
         ]
     },
+    "虎狼丸": {
+        "id": "char_4220_kormr",
+        "code_name": "虎狼丸",
+        "code_name_en": "Koromaru",
+        "code_name_jp": "虎狼丸",
+        "job": "近卫",
+        "sub_job": "剑豪",
+        "position": "近",
+        "rarity": 1,
+        "tag": [
+            "爆发",
+            "控场"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "未录入",
+            "month": 0,
+            "day": 0
+        },
+        "pinyin": [
+            "hu3",
+            "lang2",
+            "wan2"
+        ]
+    },
     "星熊": {
         "id": "char_136_hsguma",
         "code_name": "星熊",
@@ -5262,6 +5287,30 @@
         },
         "pinyin": [
             "ju3"
+        ]
+    },
+    "埃癸斯": {
+        "id": "char_4218_aigis",
+        "code_name": "埃癸斯",
+        "code_name_en": "Aegis",
+        "code_name_jp": "埃癸斯",
+        "job": "狙击",
+        "sub_job": "裂空炮手",
+        "position": "远",
+        "rarity": 5,
+        "tag": [
+            "群攻"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "未录入",
+            "month": 0,
+            "day": 0
+        },
+        "pinyin": [
+            "ai1",
+            "gui3",
+            "si1"
         ]
     },
     "杰西卡": {
@@ -9030,6 +9079,33 @@
             "luo4"
         ]
     },
+    "岳羽由加莉": {
+        "id": "char_4219_yukari",
+        "code_name": "岳羽由加莉",
+        "code_name_en": "Yukari Takeba",
+        "code_name_jp": "岳羽由加莉",
+        "job": "辅助",
+        "sub_job": "游击手",
+        "position": "远",
+        "rarity": 5,
+        "tag": [
+            "输出",
+            "支援"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "",
+            "month": 10,
+            "day": 19
+        },
+        "pinyin": [
+            "yue4",
+            "yu3",
+            "you2",
+            "jia1",
+            "li4"
+        ]
+    },
     "深海色": {
         "id": "char_110_deepcl",
         "code_name": "深海色",
@@ -9658,6 +9734,32 @@
             "jie2",
             "li4",
             "na4"
+        ]
+    },
+    "结城理": {
+        "id": "char_4217_makoto",
+        "code_name": "结城理",
+        "code_name_en": "Makoto Yuki",
+        "code_name_jp": "结城理",
+        "job": "特种",
+        "sub_job": "傀儡师",
+        "position": "近",
+        "rarity": 6,
+        "tag": [
+            "输出",
+            "快速复活",
+            "治疗"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "未录入",
+            "month": 0,
+            "day": 0
+        },
+        "pinyin": [
+            "jie2",
+            "cheng2",
+            "li3"
         ]
     },
     "红": {
