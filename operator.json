@@ -1775,6 +1775,32 @@
             "dong1"
         ]
     },
+    "克莱门莎": {
+        "id": "char_4231_clemnt",
+        "code_name": "克莱门莎",
+        "code_name_en": "Clementia",
+        "code_name_jp": "克莱门莎",
+        "job": "近卫",
+        "sub_job": "本源近卫",
+        "position": "近",
+        "rarity": 6,
+        "tag": [
+            "输出",
+            "爆发"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "",
+            "month": 9,
+            "day": 17
+        },
+        "pinyin": [
+            "ke4",
+            "lai2",
+            "men2",
+            "sha1"
+        ]
+    },
     "芙兰卡": {
         "id": "char_106_franka",
         "code_name": "芙兰卡",
@@ -2228,7 +2254,7 @@
         "tag": [
             "输出"
         ],
-        "is_recruit": false,
+        "is_recruit": true,
         "birthday": {
             "is_undefined": "",
             "month": 8,
@@ -9106,6 +9132,32 @@
             "li4"
         ]
     },
+    "德·托莱多": {
+        "id": "char_393_toledo",
+        "code_name": "德·托莱多",
+        "code_name_en": "de Toledo",
+        "code_name_jp": "德·托莱多",
+        "job": "辅助",
+        "sub_job": "削弱者",
+        "position": "远",
+        "rarity": 5,
+        "tag": [
+            "削弱"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "",
+            "month": 3,
+            "day": 1
+        },
+        "pinyin": [
+            "de2",
+            "·",
+            "tuo1",
+            "lai2",
+            "duo1"
+        ]
+    },
     "深海色": {
         "id": "char_110_deepcl",
         "code_name": "深海色",
@@ -9385,7 +9437,7 @@
             "输出",
             "控场"
         ],
-        "is_recruit": false,
+        "is_recruit": true,
         "birthday": {
             "is_undefined": "",
             "month": 3,
@@ -10316,6 +10368,30 @@
             "ruo4",
             "ye4",
             "mu4"
+        ]
+    },
+    "旅骨": {
+        "id": "char_4232_hbound",
+        "code_name": "旅骨",
+        "code_name_en": "Homebound",
+        "code_name_jp": "旅骨",
+        "job": "特种",
+        "sub_job": "炼金师",
+        "position": "远",
+        "rarity": 5,
+        "tag": [
+            "削弱",
+            "减速"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "",
+            "month": 12,
+            "day": 11
+        },
+        "pinyin": [
+            "lv3",
+            "gu3"
         ]
     },
     "砾": {
