@@ -86,7 +86,7 @@
             "费用回复",
             "支援"
         ],
-        "is_recruit": false,
+        "is_recruit": true,
         "birthday": {
             "is_undefined": "",
             "month": 5,
@@ -1801,6 +1801,31 @@
             "sha1"
         ]
     },
+    "塔露拉": {
+        "id": "char_4247_oxi",
+        "code_name": "塔露拉",
+        "code_name_en": "Talulah",
+        "code_name_jp": "塔露拉",
+        "job": "近卫",
+        "sub_job": "本源近卫",
+        "position": "近",
+        "rarity": 6,
+        "tag": [
+            "输出",
+            "生存"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "",
+            "month": 1,
+            "day": 9
+        },
+        "pinyin": [
+            "ta3",
+            "lu4",
+            "la1"
+        ]
+    },
     "芙兰卡": {
         "id": "char_106_franka",
         "code_name": "芙兰卡",
@@ -2662,6 +2687,31 @@
             "S",
             "kong1",
             "bao4"
+        ]
+    },
+    "奥尔佳": {
+        "id": "char_4245_alga",
+        "code_name": "奥尔佳",
+        "code_name_en": "Ольга",
+        "code_name_jp": "奥尔佳",
+        "job": "近卫",
+        "sub_job": "教官",
+        "position": "近",
+        "rarity": 5,
+        "tag": [
+            "输出",
+            "支援"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "",
+            "month": 12,
+            "day": 5
+        },
+        "pinyin": [
+            "ao4",
+            "er3",
+            "jia1"
         ]
     },
     "杜宾": {
@@ -4046,6 +4096,30 @@
         "pinyin": [
             "lie4",
             "xiang3"
+        ]
+    },
+    "镜匠": {
+        "id": "char_4169_caledo",
+        "code_name": "镜匠",
+        "code_name_en": "Caleido",
+        "code_name_jp": "镜匠",
+        "job": "重装",
+        "sub_job": "本源铁卫",
+        "position": "近",
+        "rarity": 5,
+        "tag": [
+            "元素",
+            "防护"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "",
+            "month": 8,
+            "day": 6
+        },
+        "pinyin": [
+            "jing4",
+            "jiang4"
         ]
     },
     "角峰": {
@@ -7613,7 +7687,7 @@
         "tag": [
             "治疗"
         ],
-        "is_recruit": false,
+        "is_recruit": true,
         "birthday": {
             "is_undefined": "",
             "month": 6,
@@ -8500,6 +8574,30 @@
             "ti2"
         ]
     },
+    "冻河": {
+        "id": "char_4244_tocka",
+        "code_name": "冻河",
+        "code_name_en": "Тоска",
+        "code_name_jp": "冻河",
+        "job": "辅助",
+        "sub_job": "游击手",
+        "position": "远",
+        "rarity": 6,
+        "tag": [
+            "支援",
+            "爆发"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "",
+            "month": 12,
+            "day": 27
+        },
+        "pinyin": [
+            "dong4",
+            "he2"
+        ]
+    },
     "梅尔": {
         "id": "char_242_otter",
         "code_name": "梅尔",
@@ -9243,7 +9341,7 @@
             "防护",
             "支援"
         ],
-        "is_recruit": false,
+        "is_recruit": true,
         "birthday": {
             "is_undefined": "",
             "month": 5,
@@ -9812,6 +9910,29 @@
             "jie2",
             "cheng2",
             "li3"
+        ]
+    },
+    "国度": {
+        "id": "char_4246_dminon",
+        "code_name": "国度",
+        "code_name_en": "Территория",
+        "code_name_jp": "国度",
+        "job": "特种",
+        "sub_job": "伏击客",
+        "position": "近",
+        "rarity": 6,
+        "tag": [
+            "控场"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "最早的目击记录出现于1102年1月21日",
+            "month": 0,
+            "day": 0
+        },
+        "pinyin": [
+            "guo2",
+            "du4"
         ]
     },
     "红": {
@@ -10556,6 +10677,30 @@
         "pinyin": [
             "yun2",
             "ji4"
+        ]
+    },
+    "行铃": {
+        "id": "char_4170_hdbell",
+        "code_name": "行铃",
+        "code_name_en": "Herdbells",
+        "code_name_jp": "行铃",
+        "job": "特种",
+        "sub_job": "调度者",
+        "position": "近",
+        "rarity": 4,
+        "tag": [
+            "输出",
+            "位移"
+        ],
+        "is_recruit": false,
+        "birthday": {
+            "is_undefined": "未知",
+            "month": 0,
+            "day": 0
+        },
+        "pinyin": [
+            "xing2",
+            "ling2"
         ]
     },
     "THRM-EX": {
